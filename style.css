@@ -1,0 +1,54 @@
+
+body{
+    background-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+h1:hover{
+  color: pink;
+}
+
+
+.IdadeCurso {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+img { 
+    width: 150px;
+   border-radius: 50%;
+   border: 5px solid pink;
+}
+
+.center1 {
+    font: 20px;
+    text-align: center;
+}
+
+.center2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 0px;
+}
+
+ul {
+    list-style: none;
+    width: 94%;
+}
+
+.lista {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    background-color: palevioletred;
+    color: black;
+    padding: 1px 0px;
+    
+}
+
+p {
+    padding: 2px 20px;
+}
+
+h3{
+    padding: 2px 20px;
+}
